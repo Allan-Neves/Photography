@@ -1,8 +1,6 @@
 # Photography
 
  Este site foi criado seguindo o template fornecido no site [jolly-kalam-23776e.netlify.app](https://jolly-kalam-23776e.netlify.app/photographysite/). É uma landing-page simples utilizando flex-box.
- 
- ![Screenshot do Site](https://imgur.com/Qlhd45f.png)
 
 ## Demo
 
@@ -30,4 +28,4 @@ Para executar o projeto, basta fazer o download ou clonar este repositório em s
 
 Este projeto é licenciado sob a Licença MIT. Consulte o arquivo `LICENSE` para obter mais informações.
 
-
+ ![Screenshot do Site](https://imgur.com/Qlhd45f.png)
