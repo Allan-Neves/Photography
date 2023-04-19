@@ -6,6 +6,7 @@
     overflow-x: hidden;
     box-sizing: border-box;
     font-family: 'Roboto Condensed', sans-serif;
+    font-size: 62.5%;
     background: #eee;
 }
 
@@ -42,17 +43,17 @@
 
 .area-texto-interna h1 {
     font-weight: 400;
-    font-size: 44px;
+    font-size: 4.4rem;
 }
 
 .area-texto-interna h2{
     color: rgb(128, 128, 128);
-    font-size: 21px;
+    font-size: 2.1rem;
     font-weight: 500;
 }
 
 .area-texto-interna a {
-    font-size: 18px;
+    font-size: 1.8rem;
     margin-top: 32px;
     padding: 17px 60px;
     border-radius: 50px;
@@ -88,6 +89,7 @@
     color: white;
     border-left: dotted 1px #fff;
     border-right: dotted 1px #fff;
+    font-size: 2.2rem;
 }
 
 img {
@@ -101,11 +103,12 @@ img {
 }
 
 .cap h3 {
-    font-size: 22px;
+    font-size: 2.2rem;
 }
 
 .cap p {
     padding-top: 20px;
+    font-size: 1.6rem;
 }
 
 footer {
@@ -119,12 +122,12 @@ footer {
 
 footer h2 {
     background-color: transparent;
-    font-size: 53px;
+    font-size: 5.3rem;
     padding-bottom: 5px;
 }
 
 footer p {
-    font-size: 18px;
+    font-size: 1.8rem;
     padding: 10px;
 }
 
